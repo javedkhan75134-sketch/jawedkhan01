@@ -1,7 +1,4 @@
-# jawedkhan01
-This is my first repository.
-<br>
-Hi, i'am jawed khan
-<br>
-i'am a passionate Mern stack
-developer ....
+👋 Hi, I’m Md jawed Khan
+👀 I’m a passionate MERN stack developer ...
+🌱 I’m currently working on my skills of web development...
+📫 How to reach me ... mdjavedkhan75134@gmail.com
